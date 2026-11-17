@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stokunov_wpf\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stokunov_wpf\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stokunov_wpf\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stokunov_wpf\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\App.xaml",
+              "RelativeDocumentMoniker": "stokunov_wpf\\App.xaml",
+              "ToolTip": "C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\App.xaml",
+              "RelativeToolTip": "stokunov_wpf\\App.xaml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T13:13:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "stokunov_wpf\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\App.xaml.cs",
+              "RelativeToolTip": "stokunov_wpf\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:09:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "stokunov_wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "stokunov_wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:05:02.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "stokunov_wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\NIKITA\\source\\repos\\stokunov_wpf\\stokunov_wpf\\MainWindow.xaml",
+              "RelativeToolTip": "stokunov_wpf\\MainWindow.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T13:00:24.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
